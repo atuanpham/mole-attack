@@ -1,0 +1,338 @@
+﻿<UserControl
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="MenuGame.MainMenu"
+        Height="600" Width="960" Visibility="Visible">
+    <UserControl.Resources>
+        <!-- Style cho button -->
+        <Style x:Key="GlassButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="BitmapEffect">
+                <Setter.Value>
+                    <DropShadowBitmapEffect ShadowDepth="7" />
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid x:Name="grid">
+                            <Rectangle x:Name="BaseRect" Stroke="#FF000000" RadiusX="13.5" RadiusY="13.5" Opacity="0.085">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFFDFDFD" Offset="0"/>
+                                        <GradientStop Color="#FFFFFFFF" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Stroke="#FF000000" RadiusX="13.5" RadiusY="13.5" x:Name="GlowRect" Opacity="0">
+                                <Rectangle.Fill>
+                                    <RadialGradientBrush GradientOrigin="0.5,0.5">
+                                        <RadialGradientBrush.RelativeTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform CenterX="0.5" CenterY="0.5" ScaleX="1" ScaleY="1.335"/>
+                                                <SkewTransform AngleX="0" AngleY="0" CenterX="0.5" CenterY="0.5"/>
+                                                <RotateTransform Angle="0" CenterX="0.5" CenterY="0.5"/>
+                                                <TranslateTransform X="0" Y="0.442"/>
+                                            </TransformGroup>
+                                        </RadialGradientBrush.RelativeTransform>
+                                        <GradientStop Color="#FFF2FF79" Offset="0"/>
+                                        <GradientStop Color="#00FFFFFF" Offset="1"/>
+                                    </RadialGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Stroke="#FF000000" RadiusX="13.5" RadiusY="13.5" x:Name="GlassRect" Opacity="0.795">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush EndPoint="0.5,0.278" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFFFFFFF" Offset="0"/>
+                                        <GradientStop Color="#00FFFFFF" Offset="1"/>
+                                        <GradientStop Color="#65FFFFFF" Offset="0.71"/>
+                                        <GradientStop Color="#DAFFFFFF" Offset="0.446"/>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <ContentPresenter x:Name="contentPresenter" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" RecognizesAccessKey="True"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <!-- Trigger cho button khi di chuot vao -->
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter Property="Cursor" TargetName="contentPresenter" Value="Hand"/>
+                                <Setter Property="Fill" TargetName="GlowRect">
+                                    <Setter.Value>
+                                        <RadialGradientBrush GradientOrigin="0.5,0.5">
+                                            <RadialGradientBrush.RelativeTransform>
+                                                <TransformGroup>
+                                                    <ScaleTransform CenterY="0.5" CenterX="0.5" ScaleY="1.335" ScaleX="1"/>
+                                                    <SkewTransform AngleY="0" AngleX="0" CenterY="0.5" CenterX="0.5"/>
+                                                    <RotateTransform Angle="0" CenterY="0.5" CenterX="0.5"/>
+                                                    <TranslateTransform X="0" Y="0.442"/>
+                                                </TransformGroup>
+                                            </RadialGradientBrush.RelativeTransform>
+                                            <GradientStop Color="#FF79FF79" Offset="0"/>
+                                            <GradientStop Color="Transparent" Offset="1"/>
+                                        </RadialGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsDefaulted" Value="True"/>
+                            <!-- Trigger cho button khi dua chuot ra -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Fill" TargetName="GlowRect">
+                                    <Setter.Value>
+                                        <RadialGradientBrush GradientOrigin="0.5,0.5">
+                                            <RadialGradientBrush.RelativeTransform>
+                                                <TransformGroup>
+                                                    <ScaleTransform CenterY="0.5" CenterX="0.5" ScaleY="1.335" ScaleX="1"/>
+                                                    <SkewTransform AngleY="0" AngleX="0" CenterY="0.5" CenterX="0.5"/>
+                                                    <RotateTransform Angle="0" CenterY="0.5" CenterX="0.5"/>
+                                                    <TranslateTransform X="0" Y="0.442"/>
+                                                </TransformGroup>
+                                            </RadialGradientBrush.RelativeTransform>
+                                            <GradientStop Color="#FF27BF43" Offset="0"/>
+                                            <GradientStop Color="Transparent" Offset="1"/>
+                                        </RadialGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter Property="Cursor" TargetName="grid" Value="Hand"/>
+                            </Trigger>
+                            <!-- Trigger khi button duoc nhan -->
+                            <Trigger Property="IsPressed" Value="True"/>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="OpacityMask" TargetName="contentPresenter" Value="Black"/>
+                                <Setter Property="Cursor" TargetName="grid" Value="Hand"/>
+                                <Setter Property="Cursor" TargetName="BaseRect" Value="Hand"/>
+                                <Setter Property="Cursor" TargetName="contentPresenter" Value="Hand"/>
+                            </Trigger>
+                            <!-- tao animation thay doi do trong suot khi dua chuot vo hoac ra khoi button -->
+                            <EventTrigger RoutedEvent="UIElement.MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetName="GlowRect" Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:0.5" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="UIElement.MouseLeave">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetName="GlowRect" Storyboard.TargetProperty="Opacity" From="1" To="0" Duration="0:0:0.5" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <!-- tao animation thay doi width cua button khi bam vao -->
+                <Trigger Property="IsPressed" Value="True">
+                    <Trigger.EnterActions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetProperty="Width" To="300" Duration="0:0:0" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </Trigger.EnterActions>
+                    <Trigger.ExitActions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetProperty="Width" To="303" Duration="0:0:0" />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </Trigger.ExitActions>
+                    <Setter Property="BitmapEffect">
+                        <Setter.Value>
+                            <DropShadowBitmapEffect ShadowDepth="2" />
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- thiet lap animation cho hammer trong mainMenu -->
+        <Storyboard x:Key="hammer">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="-100"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="-100"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.1" Value="-100"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.1" Value="-100"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.1" Value="-100"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-298.193"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="-298.193"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="-145.481"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="-145.481"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-227.711"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="-227.711"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="-83.133"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="-83.133"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="7.228"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-23.494"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="-23.494"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="-90.361"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="-90.361"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-131.927"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="-131.927"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="-164.457"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="-164.457"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="-233.132"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="0.926"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="0.926"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="0.755"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="0.755"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0.56"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="0.56"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="0.413"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="image">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="0.865"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="0.865"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="0.831"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="0.831"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0.595"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="0.595"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="0.46"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="mole_left">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="-20"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="-20"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.1" Value="-20"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.1" Value="-20"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.1" Value="-20"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="mole_left">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-260.217"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="-265.217"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="-125"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="-100"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-92.304"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="-92.304"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="-37.304"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="-37.304"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="-157.304"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="mole_left">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-71.913"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="-73.913"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="-90.782"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="-109.782"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-106.477"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="-106.477"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="-154.477"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="-154.477"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="-243.477"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="mole_left">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1.135"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="0.919"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="0.912"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="0.912"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0.561"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="0.561"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="0.453"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="mole_left">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.962"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.2" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="0.839"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="0.858"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="0.736"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.2" Value="0.736"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="0.549"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.2" Value="0.549"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="0.418"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="image1">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="10"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-10"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="10"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-10"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3.1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="10"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.9" Value="-10"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+    <UserControl.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource hammer}"/>
+        </EventTrigger>
+    </UserControl.Triggers>
+    <Grid>
+        <!-- tao cac doi tuong hinh anh -->
+        <Image x:Name="image1" Margin="392,10,366,436" Source="Images/mole2.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="image" Margin="702.048,460,183.952,33" Source="Images/hammer_up.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="mole_left" Margin="623.048,423.043,262.952,69.957" Source="Images/mole_left.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <!-- tao cac button cho mainMenu -->
+        <Button x:Name="btnPlay" Content="Play" Foreground="Black" HorizontalAlignment="Left" Height="100" Margin="140,190,0,0" Style="{DynamicResource GlassButtonStyle}" VerticalAlignment="Top" Width="300" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="60" Click="btnPlay_Click"/>
+        <Button x:Name="btnAbout" Content="About" Foreground="Black" HorizontalAlignment="Left" Height="100" Margin="140,390,0,0" Style="{DynamicResource GlassButtonStyle}" VerticalAlignment="Top" Width="300" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="60" Click="btnAbout_Click"/>
+        <Button x:Name="btnOption" Content="Option" Foreground="Black" HorizontalAlignment="Left" Height="100" Margin="140,290,0,0" Style="{DynamicResource GlassButtonStyle}" VerticalAlignment="Top" Width="300" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="60" Click="btnOption_Click"/>
+        <Button x:Name="btnQuit" Content="Quit" Foreground="Black" HorizontalAlignment="Left" Height="100" Margin="140,490,0,0" Style="{DynamicResource GlassButtonStyle}" VerticalAlignment="Top" Width="300" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="60" Click="btnQuit_Click"/>
+        <Image Source="Images/logo.png" Margin="214.048,0,183.952,384"/>
+    </Grid>
+</UserControl>

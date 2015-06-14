@@ -1,0 +1,184 @@
+﻿<UserControl
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" mc:Ignorable="d" x:Class="MenuGame.MenuAbout"
+        Height="600" Width="960" Visibility="Visible">
+    <UserControl.Resources>
+        <!-- Style cho cac button (giong nhu mainmenu) -->
+        <Style x:Key="GlassButtonStyle" TargetType="{x:Type Button}">
+            <Setter Property="BitmapEffect">
+                <Setter.Value>
+                    <DropShadowBitmapEffect ShadowDepth="7" />
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid x:Name="grid">
+                            <Rectangle x:Name="BaseRect" Stroke="#FF000000" RadiusX="13.5" RadiusY="13.5" Opacity="0.085">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFFDFDFD" Offset="0"/>
+                                        <GradientStop Color="#FFFFFFFF" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Stroke="#FF000000" RadiusX="13.5" RadiusY="13.5" x:Name="GlowRect" Opacity="0">
+                                <Rectangle.Fill>
+                                    <RadialGradientBrush GradientOrigin="0.5,0.5">
+                                        <RadialGradientBrush.RelativeTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform CenterX="0.5" CenterY="0.5" ScaleX="1" ScaleY="1.335"/>
+                                                <SkewTransform AngleX="0" AngleY="0" CenterX="0.5" CenterY="0.5"/>
+                                                <RotateTransform Angle="0" CenterX="0.5" CenterY="0.5"/>
+                                                <TranslateTransform X="0" Y="0.442"/>
+                                            </TransformGroup>
+                                        </RadialGradientBrush.RelativeTransform>
+                                        <GradientStop Color="#FFF2FF79" Offset="0"/>
+                                        <GradientStop Color="#00FFFFFF" Offset="1"/>
+                                    </RadialGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <Rectangle Stroke="#FF000000" RadiusX="13.5" RadiusY="13.5" x:Name="GlassRect" Opacity="0.795">
+                                <Rectangle.Fill>
+                                    <LinearGradientBrush EndPoint="0.5,0.278" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFFFFFFF" Offset="0"/>
+                                        <GradientStop Color="#00FFFFFF" Offset="1"/>
+                                        <GradientStop Color="#65FFFFFF" Offset="0.71"/>
+                                        <GradientStop Color="#DAFFFFFF" Offset="0.446"/>
+                                    </LinearGradientBrush>
+                                </Rectangle.Fill>
+                            </Rectangle>
+                            <ContentPresenter x:Name="contentPresenter" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" RecognizesAccessKey="True"/>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsFocused" Value="True">
+                                <Setter Property="Cursor" TargetName="contentPresenter" Value="Hand"/>
+                                <Setter Property="Fill" TargetName="GlowRect">
+                                    <Setter.Value>
+                                        <RadialGradientBrush GradientOrigin="0.5,0.5">
+                                            <RadialGradientBrush.RelativeTransform>
+                                                <TransformGroup>
+                                                    <ScaleTransform CenterY="0.5" CenterX="0.5" ScaleY="1.335" ScaleX="1"/>
+                                                    <SkewTransform AngleY="0" AngleX="0" CenterY="0.5" CenterX="0.5"/>
+                                                    <RotateTransform Angle="0" CenterY="0.5" CenterX="0.5"/>
+                                                    <TranslateTransform X="0" Y="0.442"/>
+                                                </TransformGroup>
+                                            </RadialGradientBrush.RelativeTransform>
+                                            <GradientStop Color="#FF79FF79" Offset="0"/>
+                                            <GradientStop Color="Transparent" Offset="1"/>
+                                        </RadialGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <Trigger Property="IsDefaulted" Value="True"/>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Fill" TargetName="GlowRect">
+                                    <Setter.Value>
+                                        <RadialGradientBrush GradientOrigin="0.5,0.5">
+                                            <RadialGradientBrush.RelativeTransform>
+                                                <TransformGroup>
+                                                    <ScaleTransform CenterY="0.5" CenterX="0.5" ScaleY="1.335" ScaleX="1"/>
+                                                    <SkewTransform AngleY="0" AngleX="0" CenterY="0.5" CenterX="0.5"/>
+                                                    <RotateTransform Angle="0" CenterY="0.5" CenterX="0.5"/>
+                                                    <TranslateTransform X="0" Y="0.442"/>
+                                                </TransformGroup>
+                                            </RadialGradientBrush.RelativeTransform>
+                                            <GradientStop Color="#FF27BF43" Offset="0"/>
+                                            <GradientStop Color="Transparent" Offset="1"/>
+                                        </RadialGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                                <Setter Property="Cursor" TargetName="grid" Value="Hand"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True"/>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="OpacityMask" TargetName="contentPresenter" Value="Black"/>
+                                <Setter Property="Cursor" TargetName="grid" Value="Hand"/>
+                                <Setter Property="Cursor" TargetName="BaseRect" Value="Hand"/>
+                                <Setter Property="Cursor" TargetName="contentPresenter" Value="Hand"/>
+                            </Trigger>
+                            <EventTrigger RoutedEvent="UIElement.MouseEnter">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetName="GlowRect" Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:0.5" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="UIElement.MouseLeave">
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetName="GlowRect" Storyboard.TargetProperty="Opacity" From="1" To="0" Duration="0:0:0.5" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="BitmapEffect">
+                        <Setter.Value>
+                            <DropShadowBitmapEffect ShadowDepth="2" />
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="LabelStyle1" TargetType="{x:Type Label}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Label}">
+                        <Grid>
+                            <ed:Callout AnchorPoint="0,1.5" CalloutStyle="Cloud" Content="Pham Anh Tuan" Fill="#FFF4F4F5" FontSize="40" FontFamily="Comic Sans MS" Stroke="Black"/>
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="LabelStyle2" TargetType="{x:Type Label}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Label}">
+                        <Grid>
+                            <ed:Callout AnchorPoint="0,1.5" CalloutStyle="Cloud" Content="" Fill="#FFF4F4F5" FontSize="40" FontFamily="Comic Sans MS" Stroke="Black" Margin="-30.723,-10,30.723,10"/>
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="LabelStyle3" TargetType="{x:Type Label}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Label}">
+                        <Grid>
+                            <ed:Callout AnchorPoint="0,1.25" CalloutStyle="Oval" Content="" Fill="#FFF4F4F5" FontSize="14.667" Stroke="Black"/>
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Margin="10,10,0,-24.458" Height="159.854"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <!-- tao cac doi tuong hinh anh, button, label -->
+        <Image Source="Images/BackgroundAbout.png" Stretch="Fill"/>
+
+        <Button x:Name="btnReturn" Content="Return Menu" Foreground="Black" HorizontalAlignment="Left" Height="118.572" Margin="277.714,456.214,0,0" Style="{DynamicResource GlassButtonStyle}" VerticalAlignment="Top" Width="387.143" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="60" Click="btnReturn_Click"/>
+        <Label HorizontalAlignment="Left" Height="101.493" Margin="10,0,0,0" VerticalAlignment="Top" Width="844.776" FontSize="66.667" FontWeight="SemiBold" TextOptions.TextHintingMode="Animated" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" Content="A game by Kun Team">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF4B62B0" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label Content="Ngo Van&#xD;&#xA;Hao" HorizontalAlignment="Left" Height="128.447" Margin="489.759,91.045,0,0" Style="{DynamicResource LabelStyle2}" VerticalAlignment="Top" Width="215.06" FontFamily="Comic Sans MS" FontSize="40"/>
+        <Label Content="Pham Anh &#xD;&#xA;Tuan" HorizontalAlignment="Left" Height="128.447" Margin="193.373,91.045,0,0" Style="{DynamicResource LabelStyle2}" VerticalAlignment="Top" Width="215.06" FontFamily="Comic Sans MS" FontSize="40"/>
+        <Label Content="Le Anh&#xD;&#xA;Phuoc" HorizontalAlignment="Left" Height="145" Margin="822,0,0,0" Style="{DynamicResource LabelStyle3}" VerticalAlignment="Top" Width="138" FontFamily="Comic Sans MS" FontSize="40"/>
+
+    </Grid>
+</UserControl>

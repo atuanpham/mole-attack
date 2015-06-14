@@ -1,0 +1,387 @@
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\MenuGame.exe.config
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\MenuGame.exe
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\MenuGame.pdb
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\GlassButtonStyle.baml
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MainMenu.baml
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MainWindow.baml
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuAbout.baml
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuOption.baml
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\GlassButtonStyle.g.cs
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MainMenu.g.cs
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MainWindow.g.cs
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuAbout.g.cs
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuOption.g.cs
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\App.g.cs
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuGame.g.resources
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuGame.exe
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuGame.pdb
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuGame.csprojResolveAssemblyReference.cache
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Học tập\WPF\Project\MenuGame\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\MenuGame.exe.config
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\MenuGame.exe
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\MenuGame.pdb
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\MoleAttackVer4.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\MoleAttackVer4.pdb
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.pdb
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.csprojResolveAssemblyReference.cache
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\GlassButtonStyle.baml
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MainMenu.baml
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuAbout.baml
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuOption.baml
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\GlassButtonStyle.g.cs
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MainMenu.g.cs
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MainWindow.g.cs
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuAbout.g.cs
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuOption.g.cs
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\App.g.cs
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MainWindow.baml
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.g.resources
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.exe
+G:\Học tập\Winform\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.pdb
+D:\MoleAttack\MenuGame\bin\Debug\MenuGame.exe.config
+D:\MoleAttack\MenuGame\bin\Debug\MenuGame.exe
+D:\MoleAttack\MenuGame\bin\Debug\MenuGame.pdb
+D:\MoleAttack\MenuGame\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\MoleAttack\MenuGame\bin\Debug\MoleAttackVer4.dll
+D:\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.dll
+D:\MoleAttack\MenuGame\bin\Debug\MoleAttackVer4.pdb
+D:\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.pdb
+D:\MoleAttack\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\MoleAttack\MenuGame\obj\Debug\MenuGame.csprojResolveAssemblyReference.cache
+D:\MoleAttack\MenuGame\obj\Debug\GlassButtonStyle.baml
+D:\MoleAttack\MenuGame\obj\Debug\HoleDesign.baml
+D:\MoleAttack\MenuGame\obj\Debug\MainMenu.baml
+D:\MoleAttack\MenuGame\obj\Debug\MenuAbout.baml
+D:\MoleAttack\MenuGame\obj\Debug\MenuOption.baml
+D:\MoleAttack\MenuGame\obj\Debug\Target.baml
+D:\MoleAttack\MenuGame\obj\Debug\GamePlay.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\GlassButtonStyle.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\HoleDesign.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\MainMenu.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\MainWindow.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\MenuAbout.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\MenuOption.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\Target.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\App.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+D:\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+D:\MoleAttack\MenuGame\obj\Debug\GamePlay.baml
+D:\MoleAttack\MenuGame\obj\Debug\MainWindow.baml
+D:\MoleAttack\MenuGame\obj\Debug\MenuGame.g.resources
+D:\MoleAttack\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+D:\MoleAttack\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
+D:\MoleAttack\MenuGame\obj\Debug\MenuGame.exe
+D:\MoleAttack\MenuGame\obj\Debug\MenuGame.pdb
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\MenuGame.exe.config
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame.exe
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame.pdb
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\MenuGame.exe
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\MenuGame.pdb
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.pdb
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame.csprojResolveAssemblyReference.cache
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\HoleDesign.baml
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MainMenu.baml
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuAbout.baml
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuOption.baml
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\Target.baml
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\GamePlay.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\HoleDesign.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MainMenu.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MainWindow.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuAbout.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuOption.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\Target.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\App.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\GamePlay.baml
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MainWindow.baml
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame.g.resources
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
+E:\MoleAttack\MenuGame\bin\Debug\Sounds\cover_game.wma
+E:\MoleAttack\MenuGame\bin\Debug\Sounds\hit.wma
+E:\MoleAttack\MenuGame\bin\Debug\Sounds\mole.wma
+E:\MoleAttack\MenuGame\bin\Debug\Sounds\mole_hit.wma
+E:\MoleAttack\MenuGame\bin\Debug\Sounds\mole_trap.wma
+E:\MoleAttack\MenuGame\bin\Debug\Sounds\trap_hit.wma
+E:\MoleAttack\MenuGame\bin\Debug\MenuGame.exe.config
+E:\MoleAttack\MenuGame\bin\Debug\MenuGame.exe
+E:\MoleAttack\MenuGame\bin\Debug\MenuGame.pdb
+E:\MoleAttack\MenuGame\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.dll
+E:\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.pdb
+E:\MoleAttack\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\MoleAttack\MenuGame\obj\Debug\HoleDesign.baml
+E:\MoleAttack\MenuGame\obj\Debug\MainMenu.baml
+E:\MoleAttack\MenuGame\obj\Debug\MenuAbout.baml
+E:\MoleAttack\MenuGame\obj\Debug\MenuOption.baml
+E:\MoleAttack\MenuGame\obj\Debug\Target.baml
+E:\MoleAttack\MenuGame\obj\Debug\GamePlay.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\HoleDesign.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\MainMenu.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\MainWindow.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\MenuAbout.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\MenuOption.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\Target.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\App.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame_Content.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+E:\MoleAttack\MenuGame\obj\Debug\GamePlay.baml
+E:\MoleAttack\MenuGame\obj\Debug\MainWindow.baml
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame.g.resources
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame.exe
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame.pdb
+E:\MoleAttack\MenuGame\obj\Debug\MenuGame.csprojResolveAssemblyReference.cache
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\Sounds\cover_game.wma
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\Sounds\hit.wma
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\Sounds\mole.wma
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\Sounds\mole_hit.wma
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\Sounds\mole_trap.wma
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\bin\Debug\Sounds\trap_hit.wma
+C:\Users\phuoc852312\Desktop\MoleAttack\MenuGame\obj\Debug\MenuGame_Content.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\MenuGame.exe.config
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.exe
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.pdb
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\Sounds\cover_game.wma
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\Sounds\hit.wma
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\Sounds\mole.wma
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\Sounds\mole_hit.wma
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\Sounds\mole_trap.wma
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\Sounds\trap_hit.wma
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\MenuGame.exe
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\MenuGame.pdb
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.pdb
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.csprojResolveAssemblyReference.cache
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\HoleDesign.baml
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MainMenu.baml
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuAbout.baml
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuOption.baml
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\Target.baml
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\GamePlay.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\HoleDesign.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MainMenu.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MainWindow.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuAbout.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuOption.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\Target.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\App.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame_Content.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\GamePlay.baml
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MainWindow.baml
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.g.resources
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+D:\Do an cuoi ki\MoleAttack\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\cover_game.wma
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\hit.wma
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole.wma
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole_hit.wma
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole_trap.wma
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\trap_hit.wma
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.exe.config
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.exe
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.pdb
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.pdb
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\HoleDesign.baml
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainMenu.baml
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuAbout.baml
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuOption.baml
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\Target.baml
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GamePlay.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\HoleDesign.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainMenu.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainWindow.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuAbout.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuOption.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\Target.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\App.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_Content.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GamePlay.baml
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainWindow.baml
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.g.resources
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.exe
+C:\Users\Tuan Pham\Desktop\New folder\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.pdb
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.exe.config
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.exe
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.pdb
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\cover_game.wma
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\hit.wma
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole.wma
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole_hit.wma
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole_trap.wma
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\trap_hit.wma
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.exe
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.pdb
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.pdb
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\HoleDesign.baml
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainMenu.baml
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuAbout.baml
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuOption.baml
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\Target.baml
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GamePlay.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\HoleDesign.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainMenu.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuAbout.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuOption.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\Target.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\App.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_Content.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GamePlay.baml
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainWindow.baml
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.g.resources
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
+D:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.exe.config
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.exe
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.pdb
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\cover_game.wma
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\hit.wma
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole.wma
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole_hit.wma
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\mole_trap.wma
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\Sounds\trap_hit.wma
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.exe
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\MenuGame.pdb
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\WpfPageTransitions.pdb
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.csprojResolveAssemblyReference.cache
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\HoleDesign.baml
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainMenu.baml
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuAbout.baml
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuOption.baml
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\Target.baml
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GamePlay.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\HoleDesign.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainMenu.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainWindow.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuAbout.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuOption.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\Target.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\App.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_Content.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.cache
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame_MarkupCompile.lref
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\GamePlay.baml
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MainWindow.baml
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.g.resources
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.Properties.Resources.resources
+E:\Dropbox\Đồ án\Lập trình trên windows\Đồ án nhóm 6\Chương trình\Source code\MoleAttack\MenuGame\obj\Debug\MenuGame.csproj.GenerateResource.Cache
